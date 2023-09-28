@@ -585,7 +585,9 @@ a:active {
 }
 
 
-
+.mobile_icon {
+  display: none;
+}
 
 
 

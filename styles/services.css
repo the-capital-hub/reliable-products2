@@ -2078,7 +2078,9 @@ width: 100%;}
   white-space: nowrap;
   
 }
-
+.mobile_icon {
+  display: none;
+}
 @media (max-width: 1024px) {
   .whatsappimage2023-09-05at1214-1-mRb {
   display: block;

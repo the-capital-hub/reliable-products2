@@ -342,7 +342,9 @@ display: flex;
 
 
 
-
+.mobile_icon {
+  display: none;
+}
 
 
 
