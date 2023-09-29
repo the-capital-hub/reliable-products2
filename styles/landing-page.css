@@ -2011,8 +2011,17 @@ justify-content: center;
 
 .mobile_icon {
   display: block;
+  margin-right: 5px;
 }
 
-
-
+.coming-soon-rBB {
+font-size: 3.8rem;
+}
+.android-ios-M7w {
+font-size: 3.5rem;
+}
+.image-13-LXb {
+  width: 25.4rem;
+  height: 25.4rem;
+}
 }

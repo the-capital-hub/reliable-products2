@@ -249,7 +249,8 @@ a:active {
 }
 .image-8-W1X {
 
- width: 100%;
+ /* width: 100%; */
+ width: 55%;
   object-fit: cover;
   vertical-align: top;
 }
@@ -261,6 +262,7 @@ a:active {
   margin-top: 25px;
   padding-left: 20px;
   padding-right: 20px;
+  gap: 15px;
 }
 .group-15434-6TK{
   display: flex;
@@ -361,7 +363,12 @@ margin-bottom: 10px;
 }
 .mobile_icon{
   display: block;
+  margin-right: 5px;
+
 }
+.image-8-W1X {
+
+width: 95%;}
 }
 
 
